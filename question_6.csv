@@ -1,0 +1,226 @@
+customer_id,customer_fullname,customer_email,order_id,product_desc,product_quantity,product_class_code,subtotal
+1,"Jennifer Wilson",jen_w@gmail.com,10050,"Cricket Set for Boys",1,2051,4500.00
+1,"Jennifer Wilson",jen_w@gmail.com,10050,"Sams 21L Microwave Oven",1,2060,6880.00
+1,"Jennifer Wilson",jen_w@gmail.com,10050,"HP ODC School Bag 2.5'",2,2059,1598.00
+1,"Jennifer Wilson",jen_w@gmail.com,10011,"OnePlus 6 Smart Phone",1,2055,32500.00
+1,"Jennifer Wilson",jen_w@gmail.com,10011,"Samsung Galaxy On6",2,2055,28000.00
+1,"Jennifer Wilson",jen_w@gmail.com,10011,"KitchAsst Siphon Coffee Maker 500 ml",1,2060,1790.00
+1,"Jennifer Wilson",jen_w@gmail.com,10001,"Sky LED 102 CM TV",1,2050,35000.00
+1,"Jennifer Wilson",jen_w@gmail.com,10001,"Infant Sleepwear Blue",3,2052,750.00
+1,"Jennifer Wilson",jen_w@gmail.com,10001,"Samsung Galaxy On6",1,2055,14000.00
+1,"Jennifer Wilson",jen_w@gmail.com,10001,"Foldable Premium Chair",1,2058,4000.00
+2,"Jackson Davis",dave_jack@gmail.com,10037,"Kasyo DJ-2100 Desktop Calculator",1,2056,338.00
+2,"Jackson Davis",dave_jack@gmail.com,10037,"GreenWud Nova Pedestal Unit",1,2058,2500.00
+2,"Jackson Davis",dave_jack@gmail.com,10012,"Sky LED 102 CM TV",1,2050,35000.00
+2,"Jackson Davis",dave_jack@gmail.com,10012,"Cricket Set for Boys",2,2051,9000.00
+2,"Jackson Davis",dave_jack@gmail.com,10012,"Remote Control Car",2,2051,5800.00
+2,"Jackson Davis",dave_jack@gmail.com,10012,"Blossoms Lehenga Choli set",3,2052,9000.00
+2,"Jackson Davis",dave_jack@gmail.com,10012,"Shell Fingertip Ball Pen",10,2056,250.00
+2,"Jackson Davis",dave_jack@gmail.com,10012,"Ruf-n-Tuf Black PU Leather Belt",5,2052,1750.00
+2,"Jackson Davis",dave_jack@gmail.com,10002,"Barbie Fab Gown Doll",2,2051,2000.00
+2,"Jackson Davis",dave_jack@gmail.com,10002,"Doll House",2,2051,6000.00
+2,"Jackson Davis",dave_jack@gmail.com,10002,"Samsung Galaxy On6",1,2055,14000.00
+2,"Jackson Davis",dave_jack@gmail.com,10002,"Cindy HMPOC Pencil Box (Multicolor)",5,2056,400.00
+2,"Jackson Davis",dave_jack@gmail.com,10002,"Kasyo DJ-2100 Desktop Calculator",4,2056,1352.00
+2,"Jackson Davis",dave_jack@gmail.com,10002,"PK Copier A4 75 GSM White Paper Ream",2,2056,570.00
+3,"Komal Choudhary",ch_komal@yahoo.co.IN,10046,"Samsung Galaxy On6",1,2055,14000.00
+3,"Komal Choudhary",ch_komal@yahoo.co.IN,10040,"Logtech M244 Optical Mouse",1,2053,450.00
+3,"Komal Choudhary",ch_komal@yahoo.co.IN,10040,"FLUFF Tote Travel Bag 35LTR",1,2059,3290.00
+3,"Komal Choudhary",ch_komal@yahoo.co.IN,10007,Alchemist,20,2054,3000.00
+3,"Komal Choudhary",ch_komal@yahoo.co.IN,10007,"Harry Potter",25,2054,6250.00
+3,"Komal Choudhary",ch_komal@yahoo.co.IN,10007,"External Hard Disk 500 GB",1,2053,3500.00
+3,"Komal Choudhary",ch_komal@yahoo.co.IN,10007,"Shell Fingertip Ball Pen",2,2056,50.00
+3,"Komal Choudhary",ch_komal@yahoo.co.IN,10007,"Solo Exam SB-01 Writing Pad",3,2056,1050.00
+3,"Komal Choudhary",ch_komal@yahoo.co.IN,10007,"4M Post It Pad 3.5",2,2056,70.00
+4,"Wilfred Jean",w_jean@gmail.com,10009,"Sky LED 102 CM TV",1,2050,35000.00
+4,"Wilfred Jean",w_jean@gmail.com,10009,"Cybershot DWC-W325 Camera",1,2050,5300.00
+4,"Wilfred Jean",w_jean@gmail.com,10009,"Disney Analog Watch",1,2057,1600.00
+6,"Anita Goswami",agoswami@gmail.com,10067,"Barbie Fab Gown Doll",1,2051,1000.00
+6,"Anita Goswami",agoswami@gmail.com,10067,"FLUFF Tote Travel Bag 35LTR",1,2059,3290.00
+6,"Anita Goswami",agoswami@gmail.com,10017,"External Hard Disk 500 GB",2,2053,7000.00
+6,"Anita Goswami",agoswami@gmail.com,10017,"Hello Kitti Lunch Bag",2,2059,398.00
+6,"Anita Goswami",agoswami@gmail.com,10017,"Solo Exam SB-01 Writing Pad",5,2056,1750.00
+6,"Anita Goswami",agoswami@gmail.com,10017,"4M Post It Pad 3.5",5,2056,175.00
+6,"Anita Goswami",agoswami@gmail.com,10010,"Sams 192 L4 Single-door Refrigerator",1,2050,28000.00
+6,"Anita Goswami",agoswami@gmail.com,10010,"Blue Jeans 34",2,2052,1600.00
+6,"Anita Goswami",agoswami@gmail.com,10010,"OnePlus 6 Smart Phone",1,2055,32500.00
+6,"Anita Goswami",agoswami@gmail.com,10010,"Solmo Non-stick Sandwich Maker 750 W",1,2060,1625.00
+6,"Anita Goswami",agoswami@gmail.com,10010,"HP ODC Laptop Bag 15.5",1,2059,3390.00
+6,"Anita Goswami",agoswami@gmail.com,10010,"HP ODC School Bag 2.5'",1,2059,799.00
+6,"Anita Goswami",agoswami@gmail.com,10010,"Foldable Premium Chair",4,2058,16000.00
+6,"Anita Goswami",agoswami@gmail.com,10006,"OnePlus 6 Smart Phone",1,2055,32500.00
+6,"Anita Goswami",agoswami@gmail.com,10006,"Samsung Galaxy On6",1,2055,14000.00
+6,"Anita Goswami",agoswami@gmail.com,10006,"Adidas Analog Watch",3,2057,6885.00
+6,"Anita Goswami",agoswami@gmail.com,10006,"Women Hand Bag",1,2059,1600.00
+6,"Anita Goswami",agoswami@gmail.com,10006,"Solo Exam SB-01 Writing Pad",5,2056,1750.00
+6,"Anita Goswami",agoswami@gmail.com,10006,"Kasyo DJ-2100 Desktop Calculator",2,2056,676.00
+6,"Anita Goswami",agoswami@gmail.com,10006,"GreenWud CT-NO-PR Coffee Table",2,2058,7000.00
+7,"Ashwathi Bhatt",ash_bhat@yahoo.co.IN,10032,"Harry Potter",1,2054,250.00
+7,"Ashwathi Bhatt",ash_bhat@yahoo.co.IN,10032,"Ruf-n-Tuf Black PU Leather Belt",2,2052,700.00
+7,"Ashwathi Bhatt",ash_bhat@yahoo.co.IN,10032,"HP ODC School Bag 2.5'",2,2059,1598.00
+7,"Ashwathi Bhatt",ash_bhat@yahoo.co.IN,10032,"Small Is Beautiful",1,2054,140.00
+7,"Ashwathi Bhatt",ash_bhat@yahoo.co.IN,10032,"To Kill a Mocking Bird",1,2054,210.00
+7,"Ashwathi Bhatt",ash_bhat@yahoo.co.IN,10008,"Solmo Hand Blender Fibre",5,2060,7075.00
+7,"Ashwathi Bhatt",ash_bhat@yahoo.co.IN,10008,"Phils Wah Collection Juicer JM12",2,2060,4058.00
+7,"Ashwathi Bhatt",ash_bhat@yahoo.co.IN,10008,"Cindy HMPOC Pencil Box (Multicolor)",10,2056,800.00
+7,"Ashwathi Bhatt",ash_bhat@yahoo.co.IN,10008,"4M Post It Pad 3.5",8,2056,280.00
+8,"Neetha Castelina",neetha20@gmail.com,10016,"Barbie Fab Gown Doll",1,2051,1000.00
+8,"Neetha Castelina",neetha20@gmail.com,10016,"Blue Jeans 34",1,2052,800.00
+8,"Neetha Castelina",neetha20@gmail.com,10016,"Blossoms Lehenga Choli set",2,2052,6000.00
+8,"Neetha Castelina",neetha20@gmail.com,10016,"Phils Wah Collection Juicer JM12",1,2060,2029.00
+8,"Neetha Castelina",neetha20@gmail.com,10016,"Adidas Analog Watch",2,2057,4590.00
+8,"Neetha Castelina",neetha20@gmail.com,10016,"HP ODC School Bag 2.5'",1,2059,799.00
+8,"Neetha Castelina",neetha20@gmail.com,10016,"FLUFF Tote Travel Bag 35LTR",1,2059,3290.00
+8,"Neetha Castelina",neetha20@gmail.com,10013,NULL,NULL,NULL,NULL
+9,"Devika Satish",devika_sa@gmail.com,10014,"Sky LED 102 CM TV",1,2050,35000.00
+9,"Devika Satish",devika_sa@gmail.com,10014,"Sams 192 L4 Single-door Refrigerator",1,2050,28000.00
+9,"Devika Satish",devika_sa@gmail.com,10014,"Remote Control Car",2,2051,5800.00
+9,"Devika Satish",devika_sa@gmail.com,10014,"Samsung Galaxy On6",1,2055,14000.00
+9,"Devika Satish",devika_sa@gmail.com,10014,"Harry Potter",1,2054,250.00
+9,"Devika Satish",devika_sa@gmail.com,10014,"External Hard Disk 500 GB",2,2053,7000.00
+10,"Bidhan C.Roy",bidhanroy@yahoo.co.in,10070,"Kasyo DJ-2100 Desktop Calculator",1,2056,338.00
+10,"Bidhan C.Roy",bidhanroy@yahoo.co.in,10070,"4M Post It Pad 3.5",2,2056,70.00
+10,"Bidhan C.Roy",bidhanroy@yahoo.co.in,10015,"Adidas Analog Watch",1,2057,2295.00
+10,"Bidhan C.Roy",bidhanroy@yahoo.co.in,10015,"4M Post It Pad 3.5",5,2056,175.00
+10,"Bidhan C.Roy",bidhanroy@yahoo.co.in,10015,"GreenWud CT-NO-PR Coffee Table",2,2058,7000.00
+10,"Bidhan C.Roy",bidhanroy@yahoo.co.in,10015,"Supreme Fusion Cupboard 02TB",1,2058,3000.00
+10,"Bidhan C.Roy",bidhanroy@yahoo.co.in,10015,"Foldable Premium Chair",4,2058,16000.00
+11,"Vikas Jha",vikas.jha@gmail.com,10057,"Cricket Set for Boys",1,2051,4500.00
+11,"Vikas Jha",vikas.jha@gmail.com,10056,"Ruf-n-Tuf Black PU Leather Belt",2,2052,700.00
+11,"Vikas Jha",vikas.jha@gmail.com,10018,"Shell Fingertip Ball Pen",15,2056,375.00
+11,"Vikas Jha",vikas.jha@gmail.com,10018,"Sams 21L Microwave Oven",1,2060,6880.00
+11,"Vikas Jha",vikas.jha@gmail.com,10018,"Solmo Non-stick Sandwich Maker 750 W",1,2060,1625.00
+11,"Vikas Jha",vikas.jha@gmail.com,10018,"Solmo Hand Blender Fibre",1,2060,1415.00
+11,"Vikas Jha",vikas.jha@gmail.com,10018,"HP ODC Laptop Bag 15.5",1,2059,3390.00
+11,"Vikas Jha",vikas.jha@gmail.com,10018,"Cindy HMPOC Pencil Box (Multicolor)",15,2056,1200.00
+11,"Vikas Jha",vikas.jha@gmail.com,10018,"Foldable Premium Chair",6,2058,24000.00
+12,"Arul Kumar.T",arulkumar@gmail.com,10019,"Sams 192 L4 Single-door Refrigerator",1,2050,28000.00
+12,"Arul Kumar.T",arulkumar@gmail.com,10019,"Remote Control Car",2,2051,5800.00
+12,"Arul Kumar.T",arulkumar@gmail.com,10019,"Samsung Galaxy On6",1,2055,14000.00
+12,"Arul Kumar.T",arulkumar@gmail.com,10019,"Phils HL 7430 Mixer Grinder 750W",1,2060,2265.00
+12,"Arul Kumar.T",arulkumar@gmail.com,10019,"Phils Wah Collection Juicer JM12",1,2060,2029.00
+13,"Ravi Srinivasn",r_srinivasn@yahoo.co.in,NULL,NULL,NULL,NULL,NULL
+14,"Avinash Dutta",avinash.dutta@yahoo.co.in,10039,"OnePlus 6 Smart Phone",1,2055,32500.00
+15,"Jyoti Sinha",jyotisinha@gmail.com,NULL,NULL,NULL,NULL,NULL
+16,"Vijay Bollineni",vbollineni@gmail.com,NULL,NULL,NULL,NULL,NULL
+17,"Prasad Shetty",pshetty@yahoo.co.in,10065,"Hello Kitti Lunch Bag",1,2059,199.00
+17,"Prasad Shetty",pshetty@yahoo.co.in,10065,"Cindy HMPOC Pencil Box (Multicolor)",3,2056,240.00
+17,"Prasad Shetty",pshetty@yahoo.co.in,10052,"Phils Wah Collection Juicer JM12",1,2060,2029.00
+17,"Prasad Shetty",pshetty@yahoo.co.in,10043,"Shell Fingertip Ball Pen",10,2056,250.00
+17,"Prasad Shetty",pshetty@yahoo.co.in,10043,"4M Post It Pad 3.5",2,2056,70.00
+18,"Suresh Babu",sbabu@yahoo.co.in,10063,Alchemist,1,2054,150.00
+18,"Suresh Babu",sbabu@yahoo.co.in,10063,"HP ODC Laptop Bag 15.5",1,2059,3390.00
+18,"Suresh Babu",sbabu@yahoo.co.in,10063,"Women Hand Bag",1,2059,1600.00
+18,"Suresh Babu",sbabu@yahoo.co.in,10063,"TRANS 2D A4 Size Box File",5,2056,600.00
+18,"Suresh Babu",sbabu@yahoo.co.in,10020,"Sky LED 102 CM TV",1,2050,35000.00
+18,"Suresh Babu",sbabu@yahoo.co.in,10020,"Jocky Speaker Music System HT32",1,2050,8900.00
+18,"Suresh Babu",sbabu@yahoo.co.in,10020,"Cricket Set for Boys",2,2051,9000.00
+18,"Suresh Babu",sbabu@yahoo.co.in,10020,"Barbie Fab Gown Doll",2,2051,2000.00
+18,"Suresh Babu",sbabu@yahoo.co.in,10020,"Shell Fingertip Ball Pen",20,2056,500.00
+18,"Suresh Babu",sbabu@yahoo.co.in,10020,"Ruf-n-Tuf Black PU Leather Belt",4,2052,1400.00
+18,"Suresh Babu",sbabu@yahoo.co.in,10020,"Cybershot DWC-W325 Camera",1,2050,5300.00
+18,"Suresh Babu",sbabu@yahoo.co.in,10020,"HP ODC School Bag 2.5'",3,2059,2397.00
+18,"Suresh Babu",sbabu@yahoo.co.in,10020,"Supreme Fusion Cupboard 02TB",2,2058,6000.00
+19,"Bharti Subhash",bhartis@gmail.com,10054,"Infant Sleepwear Blue",2,2052,500.00
+19,"Bharti Subhash",bhartis@gmail.com,10054,"HP ODC Laptop Bag 15.5",1,2059,3390.00
+19,"Bharti Subhash",bhartis@gmail.com,10034,"Phils Wah Collection Juicer JM12",1,2060,2029.00
+19,"Bharti Subhash",bhartis@gmail.com,10034,"Women Hand Bag",1,2059,1600.00
+20,"Keshav Jog",kesjog@yahoo.co.in,NULL,NULL,NULL,NULL,NULL
+5,"Ramya Ravinder",ramya_r23@gmail.com,10005,"Cricket Set for Boys",2,2051,9000.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10005,"Barbie Fab Gown Doll",1,2051,1000.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10005,"Remote Control Car",2,2051,5800.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10005,"Blue Jeans 34",5,2052,4000.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10005,"Blossoms Lehenga Choli set",5,2052,15000.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10005,"Shell Fingertip Ball Pen",10,2056,250.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10004,"Titan Karishma Watch",1,2057,3497.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10004,"Ruf-n-Tuf Black PU Leather Belt",2,2052,700.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10004,"Hello Kitti Lunch Bag",1,2059,199.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10004,"KitchAsst Siphon Coffee Maker 500 ml",1,2060,1790.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10004,"Sams 21L Microwave Oven",1,2060,6880.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10003,"Sams 192 L4 Single-door Refrigerator",1,2050,28000.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10003,"Jocky Speaker Music System HT32",1,2050,8900.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10003,"Logtech M244 Optical Mouse",5,2053,2250.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10003,"Phils HL 7430 Mixer Grinder 750W",1,2060,2265.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10003,"Solmo Non-stick Sandwich Maker 750 W",1,2060,1625.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10003,"HP ODC Laptop Bag 15.5",2,2059,6780.00
+5,"Ramya Ravinder",ramya_r23@gmail.com,10003,"FLUFF Tote Travel Bag 35LTR",1,2059,3290.00
+21,"Alan Silvestri",alan_silver@msn.com,10026,"OnePlus 6 Smart Phone",1,2055,32500.00
+21,"Alan Silvestri",alan_silver@msn.com,10026,"Cybershot DWC-W325 Camera",1,2050,5300.00
+22,"Andrew Stanton",andrew_stanton@yahoo.com,NULL,NULL,NULL,NULL,NULL
+23,"Anna Pinnock",anna_pinnock@yahoo.com,10069,"Cricket Set for Boys",1,2051,4500.00
+23,"Anna Pinnock",anna_pinnock@yahoo.com,10069,"Solo Exam SB-01 Writing Pad",2,2056,700.00
+23,"Anna Pinnock",anna_pinnock@yahoo.com,10069,"Kasyo DJ-2100 Desktop Calculator",1,2056,338.00
+23,"Anna Pinnock",anna_pinnock@yahoo.com,10028,"Remote Control Car",1,2051,2900.00
+23,"Anna Pinnock",anna_pinnock@yahoo.com,10028,"Exam Warriors",1,2054,100.00
+23,"Anna Pinnock",anna_pinnock@yahoo.com,10027,"Titan Karishma Watch",1,2057,3497.00
+23,"Anna Pinnock",anna_pinnock@yahoo.com,10027,"Ruf-n-Tuf Black PU Leather Belt",2,2052,700.00
+23,"Anna Pinnock",anna_pinnock@yahoo.com,10022,"Sams 192 L4 Single-door Refrigerator",1,2050,28000.00
+23,"Anna Pinnock",anna_pinnock@yahoo.com,10022,"PK Copier A4 75 GSM White Paper Ream",1,2056,285.00
+24,"Brian Grazer",brian_grazer@gmail.com,10047,"Jocky Speaker Music System HT32",1,2050,8900.00
+24,"Brian Grazer",brian_grazer@gmail.com,10047,"Logtech M244 Optical Mouse",1,2053,450.00
+24,"Brian Grazer",brian_grazer@gmail.com,10036,"External Hard Disk 500 GB",1,2053,3500.00
+24,"Brian Grazer",brian_grazer@gmail.com,10036,"Cindy HMPOC Pencil Box (Multicolor)",2,2056,160.00
+24,"Brian Grazer",brian_grazer@gmail.com,10036,"Solo Exam SB-01 Writing Pad",1,2056,350.00
+24,"Brian Grazer",brian_grazer@gmail.com,10035,"KitchAsst Siphon Coffee Maker 500 ml",1,2060,1790.00
+24,"Brian Grazer",brian_grazer@gmail.com,10035,"GreenWud CT-NO-PR Coffee Table",2,2058,7000.00
+24,"Brian Grazer",brian_grazer@gmail.com,10035,"Supreme Fusion Cupboard 02TB",1,2058,3000.00
+25,"Bruno Delbonnel",bruno_delbonnel@msn.com,10055,"Hello Kitti Lunch Bag",1,2059,199.00
+25,"Bruno Delbonnel",bruno_delbonnel@msn.com,10055,"HP ODC School Bag 2.5'",1,2059,799.00
+25,"Bruno Delbonnel",bruno_delbonnel@msn.com,10029,"Cricket Set for Boys",1,2051,4500.00
+25,"Bruno Delbonnel",bruno_delbonnel@msn.com,10029,"Exam Warriors",1,2054,100.00
+25,"Bruno Delbonnel",bruno_delbonnel@msn.com,10021,"Samsung Galaxy On6",1,2055,14000.00
+25,"Bruno Delbonnel",bruno_delbonnel@msn.com,10021,"Phils Wah Collection Juicer JM12",1,2060,2029.00
+25,"Bruno Delbonnel",bruno_delbonnel@msn.com,10021,"HP ODC Laptop Bag 15.5",1,2059,3390.00
+25,"Bruno Delbonnel",bruno_delbonnel@msn.com,10021,"Cindy HMPOC Pencil Box (Multicolor)",5,2056,400.00
+26,"Stephen E. Rivkin","stephen_e. rivkin@msn.com",10042,"Blue Jeans 34",1,2052,800.00
+26,"Stephen E. Rivkin","stephen_e. rivkin@msn.com",10042,"Adidas Analog Watch",1,2057,2295.00
+27,"Mali Finn",mali_finn@yahoo.com,NULL,NULL,NULL,NULL,NULL
+28,"Sayyed Faraj",sayyed_faraj@gmail.com,10058,"Blue Jeans 34",1,2052,800.00
+28,"Sayyed Faraj",sayyed_faraj@gmail.com,10058,"Disney Analog Watch",1,2057,1600.00
+28,"Sayyed Faraj",sayyed_faraj@gmail.com,10033,"Women Hand Bag",1,2059,1600.00
+28,"Sayyed Faraj",sayyed_faraj@gmail.com,10033,"Solo Exam SB-01 Writing Pad",5,2056,1750.00
+28,"Sayyed Faraj",sayyed_faraj@gmail.com,10025,"Barbie Fab Gown Doll",2,2051,2000.00
+28,"Sayyed Faraj",sayyed_faraj@gmail.com,10025,"Ruf-n-Tuf Black PU Leather Belt",3,2052,1050.00
+29,"Francine Maisler",francine_maisler@gmail.com,NULL,NULL,NULL,NULL,NULL
+30,"Anita Kohli",anita_kohli@yahoo.com,10059,"Cybershot DWC-W325 Camera",1,2050,5300.00
+31,"Thomas Newman",thomas_nman@yahoo.com,NULL,NULL,NULL,NULL,NULL
+32,"Hans Zimmer",hans_zimmer@yahoo.com,10024,"Sky LED 102 CM TV",1,2050,35000.00
+32,"Hans Zimmer",hans_zimmer@yahoo.com,10024,"External Hard Disk 500 GB",1,2053,3500.00
+33,"Niseema Zimmer",niseemaz@yahoo.com,10049,"Sams 192 L4 Single-door Refrigerator",1,2050,28000.00
+33,"Niseema Zimmer",niseemaz@yahoo.com,10049,"GreenWud Nova Pedestal Unit",1,2058,2500.00
+33,"Niseema Zimmer",niseemaz@yahoo.com,10048,"Remote Control Car",1,2051,2900.00
+33,"Niseema Zimmer",niseemaz@yahoo.com,10031,NULL,NULL,NULL,NULL
+34,"Hans Zimmer",hans_zimmer@gmail.com,10062,NULL,NULL,NULL,NULL
+34,"Hans Zimmer",hans_zimmer@gmail.com,10045,"Zamark Color Pencil Art Set",1,2056,100.00
+34,"Hans Zimmer",hans_zimmer@gmail.com,10045,"PK Copier A4 75 GSM White Paper Ream",10,2056,2850.00
+34,"Hans Zimmer",hans_zimmer@gmail.com,10045,"Foldable Premium Chair",1,2058,4000.00
+34,"Hans Zimmer",hans_zimmer@gmail.com,10045,"GreenWud Nova Pedestal Unit",1,2058,2500.00
+35,"Thomas Newman",thomas_newman@gmail.com,10064,"Blue Jeans 34",2,2052,1600.00
+35,"Thomas Newman",thomas_newman@gmail.com,10064,"Exam Warriors",1,2054,100.00
+36,"Michelle H. Shores",howard_shores@yahoo.com,10023,"Barbie Fab Gown Doll",2,2051,2000.00
+36,"Michelle H. Shores",howard_shores@yahoo.com,10023,"Remote Control Car",1,2051,2900.00
+36,"Michelle H. Shores",howard_shores@yahoo.com,10023,"Doll House",1,2051,3000.00
+37,"James Newton Howard",james_nhoward@yahoo.com,10061,"Logtech M244 Optical Mouse",1,2053,450.00
+38,"John Lasseter",john_lass@gmail.com,NULL,NULL,NULL,NULL,NULL
+39,"Liz Mullane",liz_mullane@gmail.com,10044,"Barbie Fab Gown Doll",2,2051,2000.00
+39,"Liz Mullane",liz_mullane@gmail.com,10044,"Doll House",1,2051,3000.00
+40,"Paul Haggis",paul_haggis@gmail.com,10053,"Sams 21L Microwave Oven",1,2060,6880.00
+41,"Tharman Shanmugaratnam",tharshan@yahoo.co.sg,10066,NULL,NULL,NULL,NULL
+42,"Rebecca Lim",reblim@msn.co.sg,NULL,NULL,NULL,NULL,NULL
+43,"Rajiv Chandrasekaran",rajiv_chan@yahoo.co.in,10051,"Solmo Hand Blender Fibre",1,2060,1415.00
+43,"Rajiv Chandrasekaran",rajiv_chan@yahoo.co.in,10051,"PK Copier A4 75 GSM White Paper Ream",5,2056,1425.00
+44,"Tanya Chua",tanyac@singers.sg,NULL,NULL,NULL,NULL,NULL
+45,"Janvi Rajiv",janvi_jha@msn.co.sg,NULL,NULL,NULL,NULL,NULL
+46,"Tan Bee Soo",tanbeesoo@yahoo.co.sg,10038,"Logtech M244 Optical Mouse",1,2053,450.00
+46,"Tan Bee Soo",tanbeesoo@yahoo.co.sg,10038,"4M Post It Pad 3.5",5,2056,175.00
+46,"Tan Bee Soo",tanbeesoo@yahoo.co.sg,10038,"Supreme Fusion Cupboard 02TB",1,2058,3000.00
+47,"Yun Zhu",yunzho@gmail.com,NULL,NULL,NULL,NULL,NULL
+48,"Wajdi bin Abdul Majeed",wajdiabdul@gmail.com,NULL,NULL,NULL,NULL,NULL
+49,"Anbara binti Mubarak",anmubarak@yahoo.co.my,NULL,NULL,NULL,NULL,NULL
+50,"Sri binti  Yaakob",sribinti@yahoo.co.my,10060,"HP ODC School Bag 2.5'",1,2059,799.00
+50,"Sri binti  Yaakob",sribinti@yahoo.co.my,10060,"Zamark Color Pencil Art Set",2,2056,200.00
+50,"Sri binti  Yaakob",sribinti@yahoo.co.my,10060,"Kasyo DJ-2100 Desktop Calculator",1,2056,338.00
+51,"Ahmad Bin Gh Azali",ahmad_bingh@yahoo.co.my,10068,"Infant Sleepwear Blue",2,2052,500.00
+51,"Ahmad Bin Gh Azali",ahmad_bingh@yahoo.co.my,10068,"GreenWud CT-NO-PR Coffee Table",1,2058,3500.00
+51,"Ahmad Bin Gh Azali",ahmad_bingh@yahoo.co.my,10041,NULL,NULL,NULL,NULL
+52,"Suchirithaa Ekanayake",suchiritha@msn.com,10030,"HP ODC School Bag 2.5'",2,2059,1598.00
